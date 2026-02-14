@@ -1,0 +1,17 @@
+{
+  "name": "Miguel Angel Bernal Portfolio",
+  "short_name": "MAB Portfolio",
+  "start_url": "/miguel-bernal-developer/",
+  "scope": "/miguel-bernal-developer/",
+  "display": "standalone",
+  "background_color": "#0c1020",
+  "theme_color": "#7c4dff",
+  "description": "Portfolio premium de desarrollo frontend y arquitectura web.",
+  "icons": [
+    {
+      "src": "/miguel-bernal-developer/favicon.ico",
+      "sizes": "48x48 72x72 96x96 128x128 256x256",
+      "type": "image/x-icon"
+    }
+  ]
+}
